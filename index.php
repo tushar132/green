@@ -1,5 +1,5 @@
 <?php  include("header.php");  ?>
-
+new added
 <?php session_start(); 
 	if(isset($_SESSION["uname"]))
 	{
